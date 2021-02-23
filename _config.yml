@@ -1,1 +1,6 @@
 theme: jekyll-theme-midnight
+title: NuclearSites
+description: 
+show_downloads: false
+github:
+  repository_url: https://github.com/nuclearsites/
